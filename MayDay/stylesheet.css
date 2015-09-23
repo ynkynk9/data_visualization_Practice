@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+h1 {
+	font-family:verdana;
+	text-align:center; 
+	color: grey;
+}
+.infobox{
+	position: absolute;
+	width: 150px;
+	height: 80px;
+	padding:10px;	
+}
+p{
+	margin:0;
+}
+.land{
+	fill:#B1BABA;
+}
+.border{
+	fill:none;
+	stroke:#fff;		
+}	
+.land-counties {
+	fill-opacity:.2;
+	stroke-linejoin:round;
+	stroke-linecap:round;
+}
+
